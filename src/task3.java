@@ -4,8 +4,6 @@
 //        например 10%3 будет равно единице)
 
 
-
-
 import java.util.ArrayList;
 
 public class task3 {
